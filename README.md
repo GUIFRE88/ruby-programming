@@ -19,5 +19,10 @@
    - Operadores Lógicos
    - POO
    - Tratamentos de String
+   - Modulos Dinamicos
+   - Hooks
+   - Modulos
+   - Orientação a Objetos
+   - Runtime
  
  ----
